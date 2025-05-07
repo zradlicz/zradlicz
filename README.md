@@ -5,7 +5,7 @@ Currently working on Kestrel, an Open source environmental logger at the Univers
 
 ---
 
-## 🔧 What I'm Building
+## What I'm Building
 
 - **Cross Listing Selling App**  
   An application for selling items quick which automatically lists on multiple platforms.
