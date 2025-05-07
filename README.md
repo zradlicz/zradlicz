@@ -42,9 +42,9 @@ Got ideas, feedback, or want to start a Robotics startup?
 [![Website](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)]()
 
 Personal Email: 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](zradlicz@gmail.com)
+zradlicz@gmail.com
 
 Work Email: 
-[![Work Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](radli009@umn.edu)
+radli009@umn.edu
 
 ---
