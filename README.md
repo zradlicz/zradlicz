@@ -1,4 +1,4 @@
-# Welcome to ZezHub 
+# Welcome
 I'm a multidiscipllinary engineer passionate about **embedded systems**, **robotics**, **open-source hardware**, and **intelligent firmware**. My projects blend low-level performance with real-world applications.
 
 Currently working on **Kestrel**, an Open source environmental logger at the University of Minnesota GEMS Informatics Lab
